@@ -14,6 +14,7 @@ Trade in a **risk-free environment** while learning how to interact with the Bin
 - **💻 Interactive CLI** – Simple yet functional menu-based trading interface.
 - **💰 Account Management** – View your testnet balance and asset holdings.
 - **📜 Order Tracking** – Check the status of open orders for any symbol.
+- **🛠 Robust Logging** – All activity recorded in `bot.log` for easy debugging.
 
 ---
 
@@ -78,6 +79,7 @@ python main.py
 ├── basic_bot.py     # Core Binance API logic
 ├── requirements.txt # Python dependencies
 ├── .env             # API credentials (not committed to Git)
+├── bot.log          # Log file with all actions & errors
 ```
 
 ---
