@@ -14,7 +14,6 @@ Trade in a **risk-free environment** while learning how to interact with the Bin
 - **💻 Interactive CLI** – Simple yet functional menu-based trading interface.
 - **💰 Account Management** – View your testnet balance and asset holdings.
 - **📜 Order Tracking** – Check the status of open orders for any symbol.
-- **🛠 Robust Logging** – All activity recorded in `bot.log` for easy debugging.
 
 ---
 
@@ -32,8 +31,8 @@ Follow these steps to set up and run the bot locally.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/KadamVrushali/Simplified-Crypto-Trading-Bot.git
+cd Simplified-Crypto-Trading-Bot
 
 # Install dependencies
 pip install -r requirements.txt
@@ -51,7 +50,7 @@ BINANCE_API_KEY=YOUR_TESTNET_API_KEY
 BINANCE_SECRET_KEY=YOUR_TESTNET_SECRET_KEY
 ```
 
-⚠ **Keep your `.env` private** – never share your keys publicly.
+⚠ **Keep your `.env` private** 
 
 ---
 
