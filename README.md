@@ -78,7 +78,6 @@ python main.py
 ├── basic_bot.py     # Core Binance API logic
 ├── requirements.txt # Python dependencies
 ├── .env             # API credentials (not committed to Git)
-├── bot.log          # Log file with all actions & errors
 ```
 
 ---
