@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🚀 Simplified Crypto Trading Bot
 
 A **Python-based command-line interface (CLI)** for placing **Market**, **Limit**, and **Stop-Market** orders on the **Binance Futures Testnet**.  
